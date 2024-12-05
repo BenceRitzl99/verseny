@@ -1,19 +1,19 @@
-1.b
-2.d
-3.b,d
-4.c
-5.d
-6.d
-7.b
-8.d
-9.c
-10.c
-11.c
-12.b,c
-13.c
-14.b
-15.b
-16.d
-17.d
-18.b
-19.b,c
+1.b (jó) 4p
+2.d (rossz) a 0p
+3.b,d (jó) 4p
+4.c (jó) 4p
+5.d (rossz) c 0p
+6.d (jó) 4p
+7.b (jó) 2p
+8.d (jó) 2p
+9.c (rossz) b 0p
+10.c (rossz) b 0p
+11.c (rossz) a 0p
+12.b,c (jó) 4p
+13.c (jó) 2p
+14.b (jó) 4p
+15.b (jó) 2p
+16.d (rossz) c 0p
+17.d (jó) 2p
+18.b (jó) 4p
+19.b,c (jó,rossz) b,d 2p 
